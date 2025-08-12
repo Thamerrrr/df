@@ -1,4 +1,4 @@
-pandas
-pandas_ta
-requests
-python-dateutil
+requests==2.31.0
+pandas==2.2.2
+pandas_ta==0.3.15b0
+flask==2.2.5
